@@ -1,4 +1,4 @@
-# Sales Forecasting Topics
+# Sales Forecasting Topics ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 1. **Introduction to Sales Forecasting**
    - [Definition and importance of sales forecasting.](#)
